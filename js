@@ -25,3 +25,6 @@ setInterval(function(){
 #hit
 #to stop the bot refresh browser hit F5
 #enjoy the fun!
+#or use the Click to Chat function of Whatsup
+#insert the destination number and the text you want to sent. Hit done!
+#https://wa.me/15182998786?text=I'm%20interested%20in%20your%20car%20for%20sale
